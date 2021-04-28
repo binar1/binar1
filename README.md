@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Binar Omer</h1>
 <h3 align="center">A FullStack Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=husseinferas&label=Profile%20views&color=0e75b6&style=flat" alt="binar1" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=binar1&label=Profile%20views&color=0e75b6&style=flat" alt="binar1" /> </p>
 - 👨‍💻 I’m currently working with [IQonline Telecom](http://iqonline.com/)
 <br>
 
@@ -13,7 +13,7 @@
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://expressjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="go" width="50" height="50"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
-    <a href="https://nestjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" alt="linux" width="50" height="50"/> </a>
+    <a href="https://nestjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="50" height="50"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="tailwind" width="50" height="50"/> </a>
   <a href="https://angular.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="vuejs" width="50" height="50"/> </a> </p>
